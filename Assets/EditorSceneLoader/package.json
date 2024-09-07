@@ -5,16 +5,7 @@
   "description": "Unity Editor用のSceneローダー。Project内のSceneを自動検出し、フォルダごとに分類して読み込みボタンを生成します。ホワイトリストとブラックリストを設定できます。",
   "unity": "2020.3",
   "author": {
-    "name": "Yumineko",
-    "email": "your-email@example.com",
-    "url": "https://your-website.com"
+    "name": "Yumineko"
   },
-  "keywords": [
-    "unity",
-    "editor",
-    "scene",
-    "loader"
-  ],
   "dependencies": {}
-}{
 }
